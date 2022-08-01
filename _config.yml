@@ -6,16 +6,16 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: Suhyune Son
+title: NLP & AI Lab., Korea University
+email: ssh5131@korea.ac.kr
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
+#twitter_username: facespics
 github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
