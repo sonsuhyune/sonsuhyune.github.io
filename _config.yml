@@ -49,6 +49,7 @@ darkmode: false
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I am a Ph.D student in [NLP&AI Lab](https://nlp.korea.ac.kr). at Korea University, advised by Prof. Heuiseok Lim.
+  |
   I am studying natural language processing with a particular focus on dialogue generation.
 
 content:
@@ -61,6 +62,35 @@ content:
           <mark>AAAI 2022</mark> |
           Yoonna Jang, Jungwoo Lim, Yuna Hur, Dongsuk Oh, <b>Suhyune Son</b>, Yeonsoo Lee, Donghoon Shin, Seungryong Kim, Heuiseok Lim
         description: I started te.
+
+      - layout: top-middle
+        title: "Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge"
+        quote: >
+          <mark>AAAI 2022</mark> |
+          Yoonna Jang, Jungwoo Lim, Yuna Hur, Dongsuk Oh, <b>Suhyune Son</b>, Yeonsoo Lee, Donghoon Shin, Seungryong Kim, Heuiseok Lim
+        description: I started te.
+
+      - layout: top-middle
+        title: "Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge"
+        quote: >
+          <mark>AAAI 2022</mark> |
+          Yoonna Jang, Jungwoo Lim, Yuna Hur, Dongsuk Oh, <b>Suhyune Son</b>, Yeonsoo Lee, Donghoon Shin, Seungryong Kim, Heuiseok Lim
+        description: I started te.
+
+      - layout: top-middle
+        title: "Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge"
+        quote: >
+          <mark>AAAI 2022</mark> |
+          Yoonna Jang, Jungwoo Lim, Yuna Hur, Dongsuk Oh, <b>Suhyune Son</b>, Yeonsoo Lee, Donghoon Shin, Seungryong Kim, Heuiseok Lim
+        description: I started te.
+
+
+
+
+
+
+
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
