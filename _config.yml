@@ -53,16 +53,26 @@ about_content: | # this will include new lines to allow paragraphs
   I am studying natural language processing with a particular focus on dialogue generation.
 
 content:
-  - title: Papers # Title for the section
+  - title: International Conference # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: "Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge"
         quote: |
-          International Journal - <mark>AAAI 2022</mark>
+          <mark>AAAI 2022</mark>
           Yoonna Jang, Jungwoo Lim, Yuna Hur, Dongsuk Oh, <b>Suhyune Son</b>, Yeonsoo Lee, Donghoon Shin, Seungryong Kim, Heuiseok Lim
         description: I started te.
 
+      - layout: top-middle
+        title: "Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations"
+        quote: >
+          <mark>EMNLP 2023</mark>
+          Yoonna Jang*, <b>Suhyune Son</b>*, Jeongwoo Lee*, Junyoung Son, Yuna Hur, Jungwoo Lim, Hyeonseok Moon, Kisu Yang, Heuiseok Lim
+        description: I started te.
+
+  - title: International Journal # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
       - layout: top-middle
         title: "Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge"
         quote: >
@@ -71,14 +81,7 @@ content:
         description: I started te.
 
       - layout: top-middle
-        title: "Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge"
-        quote: >
-          <mark>AAAI 2022</mark> |
-          Yoonna Jang, Jungwoo Lim, Yuna Hur, Dongsuk Oh, <b>Suhyune Son</b>, Yeonsoo Lee, Donghoon Shin, Seungryong Kim, Heuiseok Lim
-        description: I started te.
-
-      - layout: top-middle
-        title: "Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge"
+        title: "A sequential and intensive weighted language modeling scheme for multi-task learning-based natural language understanding"
         quote: >
           <mark>AAAI 2022</mark> |
           Yoonna Jang, Jungwoo Lim, Yuna Hur, Dongsuk Oh, <b>Suhyune Son</b>, Yeonsoo Lee, Donghoon Shin, Seungryong Kim, Heuiseok Lim
