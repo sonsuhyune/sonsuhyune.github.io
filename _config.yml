@@ -16,13 +16,13 @@ darkmode: false
 
 # Social links
 #twitter_username: facespics
-github_username:  sonsuhyune
+#github_username:  sonsuhyune
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: Suhyun Son
+#linkedin_username: Suhyun Son
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -67,6 +67,7 @@ content:
 #          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #          #   icon: fab fa-github
 #          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: "AAAI 2022"
         quote: >
           Yoonna Jang, Jungwoo Lim, Yuna Hur, Dongsuk Oh, <mark>Suhyune Son</mark>, Yeonsoo Lee, Donghoon Shin, Seungryong Kim, Heuiseok Lim
 #        description: | # this will include new lines to allow paragraphs
