@@ -74,10 +74,10 @@ content:
       layout: list # Type of content section (list/text)
       content:
       - layout: top-middle
-        title: "Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge"
+        title: "K-EPIC: Entity-perceived context representation in Korean relation extraction"
         quote: >
-          <mark>AAAI 2022</mark> |
-          Yoonna Jang, Jungwoo Lim, Yuna Hur, Dongsuk Oh, <b>Suhyune Son</b>, Yeonsoo Lee, Donghoon Shin, Seungryong Kim, Heuiseok Lim
+          <mark>Applied Sciences. 2021</mark> |
+          Yuna Hur, Suhyune Son, Midan Shim, Jungwoo Lim, Heuiseok Lim
 
       - layout: top-middle
         title: "A sequential and intensive weighted language modeling scheme for multi-task learning-based natural language understanding"
