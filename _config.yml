@@ -53,26 +53,14 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Papers # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: "Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge"
-#        link: github.com/sproogen
-#        # link_text: Project Website
-#        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-#            url: github.com/sproogen/modern-resume-theme
-#          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#          #   icon: fab fa-github
-#          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: >
-          AAAI 2022
         quote: >
           Yoonna Jang, Jungwoo Lim, Yuna Hur, Dongsuk Oh, <mark>Suhyune Son</mark>, Yeonsoo Lee, Donghoon Shin, Seungryong Kim, Heuiseok Lim
-#        description: | # this will include new lines to allow paragraphs
-#          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+        description: I started te.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
