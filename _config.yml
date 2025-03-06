@@ -67,7 +67,8 @@ content:
 #          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #          #   icon: fab fa-github
 #          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: "AAAI 2022"
+        description: >
+          AAAI 2022
         quote: >
           Yoonna Jang, Jungwoo Lim, Yuna Hur, Dongsuk Oh, <mark>Suhyune Son</mark>, Yeonsoo Lee, Donghoon Shin, Seungryong Kim, Heuiseok Lim
 #        description: | # this will include new lines to allow paragraphs
