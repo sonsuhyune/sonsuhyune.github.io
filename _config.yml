@@ -58,11 +58,11 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Korea University
         caption: 2021.09 - Present
         sub_title: Ph.D candidate in Computer Science
-      - layout: left
+      - layout: top-middle
         title: Ewha Womans University
         caption: 2017.03 - 2021.08
         sub_title: B.S Degree Graduate in Department of Computer Science and Engineering
@@ -89,6 +89,29 @@ content:
           Yoonna Jang, Jungwoo Lim, Yuna Hur, Dongsuk Oh, <b>Suhyune Son</b>, Yeonsoo Lee, Donghoon Shin, Seungryong Kim, Heuiseok Lim
 
   - title: International Journal # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: "A Comparative Study on Korean Relation Extraction with entity position information"
+        quote: >2
+          <mark>The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT 2021)</mark>
+          Suhyune Son, Yuna Hur, Jungwoo Lim, Midan Shim, Chanjun Park, Heuiseok Lim
+
+      - layout: top-middle
+        title: "K-EPIC: Entity-perceived context representation in Korean relation extraction"
+        quote: >
+          <mark>Applied Sciences. 2021</mark>
+          Yuna Hur, Suhyune Son, Midan Shim, Jungwoo Lim, Heuiseok Lim
+
+      - layout: top-middle
+        title: "A sequential and intensive weighted language modeling scheme for multi-task learning-based natural language understanding"
+        quote: |
+          <mark>Applied Sciences. 2021</mark>
+
+          <b>Suhyune Son</b>, Seonjeong Hwang, Sohyeun Bae, Soo Jun Park, Jang-Hwan Choi
+
+
+  - title: Domestic Conference # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
