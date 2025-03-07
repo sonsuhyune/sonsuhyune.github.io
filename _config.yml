@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am studying natural language processing with a particular focus on dialogue generation.
 
-  <mark>Email💌</mark>: ssh5131@korea.ac.kr
+  <mark>Email</mark>: ssh5131@korea.ac.kr
 
 content:
   - title: Education # Title for the section
@@ -115,13 +115,13 @@ content:
         title: "Intent classification and slot filling model for in-vehicle services in Korean"
         quote: >2
           <mark>Applied Sciences. 2022</mark>
-          Jungwoo Lim, <b>Suhyune Son</b>, Songeun Lee, Changwoo Chun, Sungsoo Park, Yuna Hur, Heuiseok Lim
+          Jungwoo Lim*, <b>Suhyune Son*</b>, Songeun Lee, Changwoo Chun, Sungsoo Park, Yuna Hur, Heuiseok Lim
 
       - layout: top-middle
         title: "K-EPIC: Entity-perceived context representation in Korean relation extraction"
         quote: >
           <mark>Applied Sciences. 2021</mark>
-          Yuna Hur, <b>Suhyune Son</b>, Midan Shim, Jungwoo Lim, Heuiseok Lim
+          Yuna Hur*, <b>Suhyune Son</b>*, Midan Shim*, Jungwoo Lim*, Heuiseok Lim
 
       - layout: top-middle
         title: "A sequential and intensive weighted language modeling scheme for multi-task learning-based natural language understanding"
@@ -205,9 +205,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Hyundai Motor Company
+        caption: 2024 - 2025
+        sub_title: Developed a model for TableQA based on noisy multi-table data provided by Hyundai Motor Company.
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
