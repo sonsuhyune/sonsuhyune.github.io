@@ -208,26 +208,50 @@ content:
         title: Hyundai Motor Company
         caption: 2024 - 2025
         sub_title: Developed a model for TableQA based on noisy multi-table data provided by Hyundai Motor Company.
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+      - layout: top-middle
+        title: Empathetic KULLM
+        caption: 2024 - 2025
+        sub_title: Built a Korean Empathetic LLM by utilizing multilingual LLM and Korean instruction data.
+      - layout: top-middle
+        title: Hyundai Mobis Company
+        caption: 2023 - 2024
+        sub_title: Built a model for automatic generation of PLC code with LLMs.
+      - layout: top-middle
+        title: Naver Corporation
+        caption: 2022 - 2023
+        sub_title: Built the first Korean document-level relation extraction dataset from the Naver Corp’s Encyclopedia documents.
+      - layout: top-middle
+        title: Samsung Research
+        caption: 2022
+        sub_title: Built a model for design analytics with review data from social media.
+      - layout: top-middle
+        title: NCSOFT
+        caption: 2021 - 2023
+        sub_title: Collected dataset (FoCus) and made a model for customized conversation.
+      - layout: top-middle
+        title: Hyundai Motor Company
+        caption: 2021 - 2022
+        sub_title: Developed a model that captures the intention of the utterance and fills the slot value into the corresponding slots with the data from Hyundai Motor Company.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: Awards # Title for the section
+
+  - title: Awards and Honors # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        title: Program committee of [The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/)
+        caption: COLING 2022
+      - layout: top-middle
+          title: 2nd Award (Minister of Science and ICT Award) at ICT Challenge
+          caption: 2022
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+#        sub_title: BSc Computer Science
+#        quote: >
+#          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+#        description: | # this will include new lines to allow paragraphs
+#          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+#
+#          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
 #  - title: A Little More About Me
 #    layout: text
