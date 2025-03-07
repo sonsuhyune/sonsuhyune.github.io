@@ -241,7 +241,7 @@ content:
       - layout: top-middle
         title: Program committee of The 1st Workshop on Customized Chat Grounding Persona and Knowledge
         caption: COLING 2022, [Homepage](https://sites.google.com/view/persona-knowledge-workshop/)
-#        sub_title: [Homepage](https://sites.google.com/view/persona-knowledge-workshop/)
+        sub_title: [Homepage](https://sites.google.com/view/persona-knowledge-workshop/)
 
       - layout: top-middle
         title: 2nd Award (Minister of Science and ICT Award) at ICT Challenge
