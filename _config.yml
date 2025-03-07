@@ -58,10 +58,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-          title: "Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations"
-          quote: >
-            <mark>EMNLP 2023</mark>
-            Yoonna Jang*, <b>Suhyune Son</b>*, Jeongwoo Lee*, Junyoung Son, Yuna Hur, Jungwoo Lim, Hyeonseok Moon, Kisu Yang, Heuiseok Lim
+        title: "Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations"
+        quote: >
+          <mark>EMNLP 2023</mark>
+          Yoonna Jang*, <b>Suhyune Son</b>*, Jeongwoo Lee*, Junyoung Son, Yuna Hur, Jungwoo Lim, Hyeonseok Moon, Kisu Yang, Heuiseok Lim
 
       - layout: top-middle
         title: "Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge"
