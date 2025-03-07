@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I am a Ph.D student in [NLP&AI Lab](https://nlp.korea.ac.kr). at Korea University, advised by Prof. Heuiseok Lim.
 
-  I am studying natural language processing with a particular focus on dialogue generation.
+  I am studying natural language processing with a particular focus on <mark>dialogue system</mark>, <mark>empathetic LLMs</mark>, <mark>cross-lingual transfer learning</mark>, and <mark>information extraction</mark>.
 
   <mark>Email</mark>: ssh5131@korea.ac.kr
 
