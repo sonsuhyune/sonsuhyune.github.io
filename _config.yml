@@ -72,17 +72,17 @@ content:
   - title: International Journal # Title for the section
     layout: list # Type of content section (list/text)
     content:
-    - layout: top-middle
-      title: "K-EPIC: Entity-perceived context representation in Korean relation extraction"
-      quote: >
-        <mark>Applied Sciences. 2021</mark>
-        Yuna Hur, Suhyune Son, Midan Shim, Jungwoo Lim, Heuiseok Lim
+      - layout: top-middle
+        title: "K-EPIC: Entity-perceived context representation in Korean relation extraction"
+        quote: >
+          <mark>Applied Sciences. 2021</mark>
+          Yuna Hur, Suhyune Son, Midan Shim, Jungwoo Lim, Heuiseok Lim
 
-    - layout: top-middle
-      title: "A sequential and intensive weighted language modeling scheme for multi-task learning-based natural language understanding"
-      quote: >
-        <mark>Applied Sciences. 2021</mark>
-        <b>Suhyune Son</b>, Seonjeong Hwang, Sohyeun Bae, Soo Jun Park, Jang-Hwan Choi
+      - layout: top-middle
+        title: "A sequential and intensive weighted language modeling scheme for multi-task learning-based natural language understanding"
+        quote: >
+          <mark>Applied Sciences. 2021</mark>
+          <b>Suhyune Son</b>, Seonjeong Hwang, Sohyeun Bae, Soo Jun Park, Jang-Hwan Choi
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
