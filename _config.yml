@@ -58,11 +58,11 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Korea University
         caption: 2021.09 - Present
         sub_title: Ph.D candidate in Computer Science
-      - layout: top-middle
+      - layout: left
         title: Ewha Womans University
         caption: 2017.03 - 2021.08
         sub_title: B.S Degree Graduate in Department of Computer Science and Engineering
@@ -101,7 +101,7 @@ content:
         title: "A sequential and intensive weighted language modeling scheme for multi-task learning-based natural language understanding"
         quote: |
           <mark>Applied Sciences. 2021</mark>
-           
+
           <b>Suhyune Son</b>, Seonjeong Hwang, Sohyeun Bae, Soo Jun Park, Jang-Hwan Choi
 
   - title: Education # Title for the section
