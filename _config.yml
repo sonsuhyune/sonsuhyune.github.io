@@ -46,7 +46,7 @@ darkmode: false
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/suhyun.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I am a Ph.D student in [NLP&AI Lab](https://nlp.korea.ac.kr). at Korea University, advised by Prof. Heuiseok Lim.
 
