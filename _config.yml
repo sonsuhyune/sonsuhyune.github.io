@@ -154,6 +154,13 @@ content:
     content:
 
       - layout: top-middle
+        title: "User-Centered Evaluation of LLMs in Emotional Support Conversations"
+        quote: >2
+          <mark>The 2025 Joint Conference on Human and Cognitive Language Technology, Korean Association for Corpus Linguistics (HCLT-KACL 2025)</mark>
+          <b>Suhyune Son</b>, Seonmin Koo, Hayoon Zi, JeongBae Park, Heuiseok Lim
+
+
+      - layout: top-middle
         title: "Enhancing Empathetic Response Generation in Large Language Models based on Emotional Validation Theory"
         quote: >2
           <mark>The 36rd Annual Conference on Human & Cognitive Language Technology (HCLT 2024)</mark>
@@ -222,6 +229,14 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+        title: 독자 AI 파운데이션 모델 사업 (National Representative AI — World Best LLM)
+        caption: 2025.08 - 2025.12
+        sub_title: Member of the Data Team for NC AI Consortium’s VAETKI development.
+      - layout: top-middle
+        title: Next‑Generation AI Technology Development supported by IITP
+        caption: 2024 - 2026
+        sub_title: Served as Project Manager and Researcher.
       - layout: top-middle
         title: Hyundai Motor Company
         caption: 2024 - 2025
