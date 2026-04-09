@@ -77,6 +77,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: "I Don't Need Solution. I Need Emotional Support \n : Empathetic LLMs based on Emotional Validation"
+        quote: >
+          <mark>ACL 2026 - Findings</mark>
+          <b>Suhyune Son</b>, Jungwoo Lim, Myunghoon Kang, Seongtae Hong, Yuna Hur, Evelyn H. Zi, Heuiseok Lim
+
+      - layout: top-middle
+        title: "EASE: Entity-Aware Sub-table Generation for Real-world Multi-table QA"
+        quote: >
+          <mark>ACL 2026 - Main</mark>
+          Myunghoon_Kang, Dahyun Jung, <b>Suhyune Son</b>, Seonmin Koo, Yuna Hur, Changwoo Chun, Daniel Rim, Haeyoung Kwon, Heuiseok Lim
+
+      - layout: top-middle
         title: "Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations"
         quote: >
           <mark>EMNLP 2023</mark>
@@ -91,6 +103,12 @@ content:
   - title: International Journal # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+      - layout: top-middle
+        title: "Evaluating Over-Empathizing in Emotional Support Conversations: A User-Centered Framework"
+        quote: >2
+          <mark>Expert Systems with Applications. 2026</mark>
+          <b>Suhyune Son</b>, Seonmin Koo, Evelyn H Zi, Jungsun Jang, Heuiseok Lim
 
       - layout: top-middle
         title: "An analysis on language transfer of pre-trained language model with cross-lingual post-training"
