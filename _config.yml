@@ -77,6 +77,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: "Generalizable Lifelong Model Editing via Preference Optimization"
+        quote: >
+          <mark>EMNLP 2026 - Main</mark>
+          Dahyun Jung, <b>Suhyune Son</b>, Heuiseok Lim
+
+      - layout: top-middle
         title: "I Don't Need Solution. I Need Emotional Support \n : Empathetic LLMs based on Emotional Validation"
         quote: >
           <mark>ACL 2026 - Findings</mark>
